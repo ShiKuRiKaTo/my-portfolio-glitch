@@ -9,7 +9,7 @@ import './App.css';
 const DATA = {
   name: "REHAN YASSIN SHAIKH",
   email: "shaikhrehanyasin7@gmail.com",
-  phone: "8828371736",
+  phone: "+918828371736",
   github: "https://github.com/ShiKuRiKaTo", // REPLACE
   linkedin: "https://www.linkedin.com/in/rehan-yassin-shaikh-93838b242/", // REPLACE
   "skills": [
